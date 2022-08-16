@@ -1,10 +1,10 @@
-h1{text-align:center;color:#FF0000;}
+h1{text-align:center;font-color:#FF0000;}
 h2{text-align:center;}
-em{font-size:22px; color:#00FF00;text-align:center;}
+em{font-size:22px; font-color:#00FF00;text-align:center;}
 li{font-size:20px;text-align:}
 #banner1{width:50%;border:10px solid;position:left; }
 #banner2{width:50%;border:10px solid;height:640px;width:720px;right:60px;top:150px;position:absolute}
-body{background:#FFFFFF;}
-div{background:#CCCCCC;}
+body{background-color:#FFFFFF;}
+div{background-color:#CCCCCC;}
 ol{text-align:right;text-style:bold;font-size:40px;}
 h3{text-align:right;text-style:bold;font-size:40px;}
